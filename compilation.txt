@@ -1,0 +1,9 @@
+Compilation Setup:
+
+1. Install Lazarus (includes FPC) from: https://www.freepascal.org/down/x86_64/win64.html
+2. Open new project
+3. In "Package" menu use "Online Package Manager" and install these packages: uniqueinstance, lnet, and synapse
+4. In "Package" menu use "Open Package File" and install this package: dsgraphs
+5. In "Tools" menu use "Build Lazarus" to include the new packages in the lazarus executable
+6. Open project "dslstats"
+
