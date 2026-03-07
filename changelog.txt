@@ -3,9 +3,10 @@
 DSLstats changelog:
 
 
-v6.5.10 - 2026-03-06
+v6.6.0 - 2026-03-06
 1. fixed samples recording error
 2. allowed running multiple instances
+
 
 
 
